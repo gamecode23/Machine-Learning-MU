@@ -4,7 +4,7 @@ A repository with explanation of topics covered in general Machine Learning syll
 ## The topics to be covered in this repository include
 ###1. Introduction to Machine learning. What and Whys of Machine Learning 
 ###2. Supervised Mahcine Learning 
-   2.1 Regression
+   2.1. Regression
   
      2.1.1. What, Where and Why 
 
@@ -14,7 +14,7 @@ A repository with explanation of topics covered in general Machine Learning syll
 
      2.1.4. What a crazy curve! That seems wrong...! Regularization 
 
-   Logistic regression
+   2.2. Logistic regression
 
      2.2.1. What, Where and Why 
 
@@ -22,8 +22,11 @@ A repository with explanation of topics covered in general Machine Learning syll
   
   
 ###3. Unsupervised Machine Learning 
-  3.1. What, Where and Why
-  3.2. 
+  
+  Clustering
+  
+      3.1. What, Where and Why
+  
 ###4. Reinforcement learning
 ###5. Implementing neural networks
 ###6. Using implemented networks
